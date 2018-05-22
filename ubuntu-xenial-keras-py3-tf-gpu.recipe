@@ -1,8 +1,8 @@
 Bootstrap: docker
-From: ubuntu/xenial:latest
+From: ubuntu:latest
 
 %help
-singularity docker of keras + py3 + tensorflow-gpu support
+[broken, don't use] singularity docker of keras + py3 + tensorflow-gpu support
 
 %environment
 WORKSPACE=/workspace
